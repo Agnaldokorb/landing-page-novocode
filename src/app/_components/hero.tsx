@@ -33,7 +33,7 @@ export function Hero() {
 
             <div>
               <a
-                href="#"
+                href="https://wa.me/5547988815799"
                 className="bg-green-500 px-5 py-2 rounded-md font-semibold flex items-center justify-center w-fit gap-2
                         hover:bg-green-600 transition-colors duration-300"
               >
